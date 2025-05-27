@@ -2,10 +2,15 @@
 
 **Basic Level**
 Find the largest/smallest element in an array
+
 Reverse an array
+
 Check if an array contains a specific element
+
 Sum of all elements in an array
+
 Remove duplicates from an array
+
 Count occurrences of each element
 
 **Intermediate Level**
