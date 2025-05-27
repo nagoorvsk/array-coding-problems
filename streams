@@ -1,1 +1,12 @@
 
+•	Let's say you have a list of Employee objects. Each employee has an age field. Can you write a stream-based code snippet to get all employees older than 30?
+•	Suppose you have a list of products with name and price. How would you sort the products in ascending order of price using Java 8 streams?
+•	Imagine some entries in your list might have null names. How would you sort the list but push all entries with null names to the end?
+•	Can you show how to use a custom comparator within a stream to sort a list of objects, say, by length of their name fields?
+•	What happens if two objects have the same length? How would you break the tie?
+•	Assume a list of books where each book has a title and yearPublished. How would you sort the books by year, and then by title alphabetically in case of a tie?
+•	You’re given a list of students. Filter out those who scored less than 60, then sort the remaining students by score in descending order. Can you implement this using streams?
+•	You have a list of Order objects. Each order has a status field like 'DELIVERED', 'PENDING', or 'CANCELLED'. How would you use Java 8 streams to filter only the orders with status 'DELIVERED'?
+•	Given a list of Product objects with fields like name, price, and unitsSold, how would you sort them in descending order of unitsSold and get the top 5 products?
+•	You have a list of Customer objects, each with a list of Orders. How would you compute the total purchase amount for each customer and then sort the customers by that amount in descending order?
+•	Let’s say each product has a discount field as a percentage. How would you filter out only those products with a discount greater than 30% and then sort them by discount descending?
