@@ -1,7 +1,6 @@
 # array-coding-problems
 
 **Basic Level**
-
 Find the largest/smallest element in an array
 
 Reverse an array
